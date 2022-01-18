@@ -21,5 +21,6 @@ I found very fun and satisfying to build a little working game for this project.
 When opening the project in unity be careful to press "NO" when asked to enable the new input system. By pressing "YES", you will disable the old input system and the player movement system will no longer work. Only free assets (from the asset store) have been used, so don't worry about them.
 
 
-
+### - When you ask your friends to test the game :')
+https://www.youtube.com/watch?v=1HKQBnlvnaQ
  

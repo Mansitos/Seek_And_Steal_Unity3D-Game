@@ -1094,15 +1094,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetRef: {fileID: 0}
-  minDistanceFromTarget: 0.75
+  minDistanceFromTarget: 0.8
   faceTargetWhenFollowing: 1
-  minDistanceToForceTargetFacing: 3.5
-  lostTrackDelay: 2
-  runningSpeed: 5.5
+  minDistanceToForceTargetFacing: 3.75
+  lostTrackDelay: 3
+  runningSpeed: 5.35
   executePatrol: 0
   pathPoints: []
   waitTimeToGoBackPatrolling: 10
-  patrollingSpeed: 1.35
+  patrollingSpeed: 1.3
   timeBetweenAttacks: 2.2
   timeOffsetForHitCheckAfterAnimationTrigger: 0.275
   attackVolumeRef: {fileID: 359799148555037011}
