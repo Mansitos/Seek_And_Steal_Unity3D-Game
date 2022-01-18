@@ -24,7 +24,10 @@ When opening the project in unity be careful to press "NO" when asked to enable 
 
 
 ### - When you ask your friends to test the game :') (funny videos)
+
 https://www.youtube.com/watch?v=xUCHY36PTrc
+
 https://www.youtube.com/watch?v=0Z1KiIk9tK4
+
 https://www.youtube.com/watch?v=1HKQBnlvnaQ
  
