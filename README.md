@@ -1,5 +1,5 @@
 # Seek and Steal (a Unity small project)
-### In this repository you will find a small game made in unity engine. This game have been developed for the pratical exam part of the university course "VideoGameProgramming 2021-2022" (Università degli studi di Udine).
+### In this repository you will find a small game made in unity engine. This game has been developed for the pratical exam part of the university course "VideoGameProgramming 2021-2022" (Università degli studi di Udine).
 
 ![png](readmeimage.png)
 
