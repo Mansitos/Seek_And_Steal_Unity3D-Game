@@ -1,11 +1,11 @@
-# Seek and Steal (a Unity small project)
-### In this repository you will find a small game made in unity engine. This game has been developed for the pratical exam part of the university course "VideoGameProgramming 2021-2022" (Università degli studi di Udine).
+# Seek and Steal (a Unity3D small project)
+### In this repository you will find a small game made in unity engine. This game was developed for the pratical exam part of the university course "VideoGameProgramming 2021-2022" (Università degli studi di Udine).
 
 ![png](readmeimage.png)
 
 Here, you can find:
-- A working version of the game (in last_build folder)
-- The unity3D project (feel free to use it for your purposes; please read additional notes reported below)
+- A working windows build of the game (in last_build folder)
+- The Unity3D project (feel free to use it for your purposes; please read additional notes reported below)
 - A roadmap file with version history, bugs, user testing notes
 
 ### - Short game description:
@@ -23,7 +23,7 @@ I found very fun and satisfying to build a little working game for this project.
 When opening the project in unity be careful to press "NO" when asked to enable the new input system. By pressing "YES", you will disable the old input system and the player movement system will no longer work. Only free assets (from the asset store) have been used, so don't worry about them.
 
 
-### - When you ask your friends to test the game :') (funny videos)
+### - When you ask your friends to test the game 🤣 (funny videos)
 
 https://www.youtube.com/watch?v=xUCHY36PTrc
 
