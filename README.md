@@ -1,12 +1,15 @@
 # Seek and Steal (a Unity3D small project)
-### In this repository you will find a small game made in unity engine. This game was developed for the pratical exam part of the university course "VideoGameProgramming 2021-2022" (Università degli studi di Udine).
+### In this repository you will find a small game made in Unity3D engine. This game was developed for the pratical exam part of the university course "VideoGameProgramming 2021-2022" (Università degli studi di Udine).
+
+Received mark/score: 30L (max)
 
 ![png](readmeimage.png)
 
 Here, you can find:
-- A working windows build of the game (in last_build folder)
+- A working Windows build of the game (in last_build folder)
 - The Unity3D project (feel free to use it for your purposes; please read additional notes reported below)
 - A roadmap file with version history, bugs, user testing notes
+- Bugs and rushed code :P
 
 ### - Short game description:
 
